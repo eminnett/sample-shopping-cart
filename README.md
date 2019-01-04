@@ -4,7 +4,7 @@ Edward Minnett - January 4th, 2019
 
 ## TODOs
 
-- Write TASK.md
+- Decide how the interface should work and how to pass the catalogue, delivery charges, and offers 
 - Write tests
 - Write code
 - Finish writing README.md
