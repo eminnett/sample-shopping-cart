@@ -1,6 +1,6 @@
 # Sample Shopping Cart
 
-The client decided to open a hyper-focused online shop that sells only three things -
+A potential client decided to open a hyper-focused online shop that sells only three things -
 jeans, blouses, and socks. Each product has a corresponding product code and price:
 
 | **Product** | **Code** | **Price** |
@@ -26,7 +26,7 @@ So that you can check your implementation, here are some example baskets and the
 
 | **Products**            | **Basket Total** |
 |:-----------------------:| ----------------:|
-| S01, J01                |           £32.95 |
-| J01, J01                |           £24.95 |
-| J01, B01                |            £7.95 |
-| S01, S01, J01, J01, J01 |            £7.95 |
+| S01, J01                |           £37.85 |
+| J01, J01                |           £54.37 |
+| J01, B01                |           £60.85 |
+| S01, S01, J01, J01, J01 |           £98.27 |
